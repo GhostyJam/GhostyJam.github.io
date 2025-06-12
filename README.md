@@ -1,1 +1,1 @@
-# GhostyJam.github.io
+# GhostyJam
