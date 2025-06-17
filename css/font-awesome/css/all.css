@@ -7515,6 +7515,10 @@ readers do not read off random characters that represent icons */
 .fa-lastfm-square:before {
   content: "\f203"; }
 
+.fa-bluesky {
+  content: "\e671";
+}
+
 .fa-square-odnoklassniki:before {
   content: "\f264"; }
 
