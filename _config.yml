@@ -1,11 +1,11 @@
 # Site settings
 title: Ghosty Jam
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+url: https://ghostyjam.github.io/
+description: "Online Portfolio for Ghosty Jam (Maj), Developer of Games and Stuff"
+keywords: "games,dev,development,design,game design,technology"
+skills: "Developer - Game Enjoyer - Student"
+meta_author: Jensen Maj
 
 # Google webmaster tools
 google_verify:
@@ -25,30 +25,28 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: FFF2AF #80B3FF
+  primary-rgb: "255,242,175" #"128,179,255"
+  secondary: B2A5FF #FD6E8A
+  secondary-dark: 493D9E #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Maj Frost Jensen
   location: Location
-  social: Around the Web
+  social: Find Me Here!
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://linkedin.com/in/maj-frost-jensen
+  - title: bsky
+    url: https://bsky.app/profile/ghostyjam.bsky.social
+  - title: itch.io
+    url: https://ghostyjam.itch.io/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/GhostyJam
 
 # Postal address (add as many lines as necessary)
 address:
