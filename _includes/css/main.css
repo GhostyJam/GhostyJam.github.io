@@ -25,7 +25,11 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
-a.styleone.active {
+a.altstyle,
+a.altstyle:hover,
+a.altstyle:focus,
+a.altstyle:active,
+a.altstyle.active {
     outline: 0;
     color: #{{ site .color.secondary-dark }};
 }
