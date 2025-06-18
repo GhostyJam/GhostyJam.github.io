@@ -25,11 +25,7 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
-b,
-b:hover,
-b:focus,
-b:active,
-b.active {
+a.styleone.active {
     outline: 0;
     color: #{{ site .color.secondary-dark }};
 }
