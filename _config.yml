@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Maj Frost Jensen
-  location: Location
+  #location: Location
   social: Find Me Here!
   credits: Credits
 
