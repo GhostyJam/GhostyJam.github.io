@@ -68,11 +68,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #000000;
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #000000;
     background-color: #fff;
 }
 
@@ -182,7 +182,7 @@ section h2 {
 
 section.success {
     color: #000000;
-    background: #{{ site.color.primary }};
+    /*background: #{{ site.color.primary }};*/
 }
 
 @media(max-width:767px) {
