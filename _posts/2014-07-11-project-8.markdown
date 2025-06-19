@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-date: 2025-05-18
+date: 2025-06-18
 img: slime.png
 alt: image-alt
 project-date: Autumn 2023
