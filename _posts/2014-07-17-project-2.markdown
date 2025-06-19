@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2025-06-25
+date: 2025-06-24
 img: 3days.png
 alt: image-alt
 project-date: Spring 2025
