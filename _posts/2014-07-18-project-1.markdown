@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-06-19
-img: bridge.png
+img: bridge2.png
 alt: image-alt
 project-date: Winter 2024
 client: ITU Course Making Games
