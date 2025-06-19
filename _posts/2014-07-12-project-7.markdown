@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Autumn 2023
 client: ITU Course Making Games
 category: Prototype
-description: During Making Games I worked on a prototype with 2 designers where we had to make something simple in Twine. We made The Purple Club which we uploaded on itch.io at this link - https://ghostyjam.itch.io/the-purple-club. I worked on the implementation of the paths, the maze and countdown mechanic and implementation of music.
+description: During Making Games I worked on a prototype with 2 designers where we had to make something simple in Twine. We made The Purple Club which we uploaded on itch.io at this link - <a class="altstyle" href="https://ghostyjam.itch.io/the-purple-club">The Purple Club</a>. I worked on the implementation of the paths, the maze and countdown mechanic and implementation of music.
 ---

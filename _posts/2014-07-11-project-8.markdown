@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Autumn 2023
 client: ITU Course Making Games
 category: Prototype
-description: The first prototype I made for Making Games was a demake of Slime Keeper in Puzzle Script. It can be played here - https://www.puzzlescript.net/play.html?p=52419bfbdf4767ce1c3d33da752ac05f.
+description: The first prototype I made for Making Games was a demake of Slime Keeper in Puzzle Script. It can be played here - <a class="altstyle" href="https://www.puzzlescript.net/play.html?p=52419bfbdf4767ce1c3d33da752ac05f">Slime Rancher Demake</a>.
 ---
