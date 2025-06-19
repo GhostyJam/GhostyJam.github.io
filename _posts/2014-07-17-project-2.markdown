@@ -8,5 +8,5 @@ alt: image-alt
 project-date: Spring 2025
 client: ITU Course Playable Media
 category: Prototype
-description: 3 Days is a critical game made for Playable Media. We had to make a project inspired by critical design, I chose to make a game criticising the DEI bans which have been rolled out by the American Administration since January 2025. I made the prototype completely on my own, except for the dialogue mechanic. The prototype can be played at - https://ghostyjam.itch.io/3-days. 
+description: 3 Days is a critical game made for Playable Media. We had to make a project inspired by critical design, I chose to make a game criticising the DEI bans which have been rolled out by the American Administration since January 2025. I made the prototype completely on my own, except for the dialogue mechanic. The prototype can be played here - <a class="altstyle" href="https://ghostyjam.itch.io/3-days">3 Days</a>. 
 ---
