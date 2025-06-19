@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: Winter 2024
+img: bridge.png
+alt: image-alt
+project-date: Winter 2024
+client: Making Games University Course
+category: Full Game with Steam Release
+description: The Bridge to Yesterday started out as a course project for Making Games. In January 2024 the game was showcased at Copenhagen Gaming Week, and won the student showcase, earning us tickets to Nordic Game Conference in Malmö in May 2024, where we got to display our game along many amazing professionally made games. I worked as a game programmer on this project, working mainly on movement, camera, and puzzle mechanics.
+---
