@@ -1,5 +1,6 @@
 ---
 layout: default
+title: A/B testing with eye-tracking
 modal-id: 6
 date: 2025-06-19
 img: data.png

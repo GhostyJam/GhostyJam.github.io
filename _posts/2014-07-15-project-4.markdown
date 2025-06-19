@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Complex Game Environments and Neuroevolution
 modal-id: 4
 date: 2025-06-19
 img: ai.png

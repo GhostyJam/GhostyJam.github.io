@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 3 Days
 modal-id: 2
 date: 2025-06-19
 img: 3days.png

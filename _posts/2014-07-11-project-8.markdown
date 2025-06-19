@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Slime Keeper Demake in Puzzle Script
 modal-id: 8
 date: 2025-06-19
 img: slime.png
