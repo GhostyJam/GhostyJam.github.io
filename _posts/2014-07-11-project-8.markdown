@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 8
-date: 2014-07-11
+date: 2025-06-25
 img: slime.png
 alt: image-alt
 project-date: Autumn 2023
-client: ITU Course: Making Games
+client: ITU Course Making Games
 category: Prototype
 description: The first prototype I made for Making Games was a demake of Slime Keeper in Puzzle Script. It can be played here: https://www.puzzlescript.net/play.html?p=52419bfbdf4767ce1c3d33da752ac05f.
 ---

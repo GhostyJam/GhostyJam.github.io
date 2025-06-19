@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2025-06-25
 img: ai.png
 alt: image-alt
 project-date: Autumn 2024
-client: ITU Course: Artificial Intelligence for Games and Simulations
+client: ITU Course Artificial Intelligence for Games and Simulations
 category: Research Project and Prototype
 description: For the course Artificial Intelligence for Games and Simulations I worked in a fantastic group where we decided to investigate complex game environments using neuroevolution. For our project we made use of UnitySharpNEAT and a Celeste Classic environment to see if agents could learn how to masterfully navigate Celeste levels using the NEAT algorithm.
 ---
