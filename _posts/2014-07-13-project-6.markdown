@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2014-07-13
+img: data.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Spring 2024
+client: ITU Course: Data-Driven Design and Development
+category: Research Project
+description: For the course Data-Driven Design and Development I worked in a group where we implemented an A/B test on the game Slimekeeper by BenBonk while using eye-tracking as a way to measure competitiveness. During the project I mainly worked on our modified version of Slimekeep, helping understand the eye-tracking software, and running the experiments. 
 ---

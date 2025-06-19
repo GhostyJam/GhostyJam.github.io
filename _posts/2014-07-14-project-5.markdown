@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: graphics.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Spring 2024
+client: ITU Course: Graphics Programming
+category: Prototype
+description: For the course Graphics Programming we had to do a project in OpenGL, where we had to implement anything of our choosing. I chose to implement fog as a post-processing pass, using Beer's Law, the Henyey-Greenstein phase function, and raymarching.
 ---
