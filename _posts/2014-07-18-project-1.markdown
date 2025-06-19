@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The Bridge to Yesterday
 modal-id: 1
 date: 2025-06-19
 img: bridge2.png
