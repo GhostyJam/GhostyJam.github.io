@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Winter 2024
 client: ITU Course Making Games
 category: Full Game with Steam Release
-description: The Bridge to Yesterday started out as a course project for Making Games. In January 2024 the game was showcased at Copenhagen Gaming Week, and won the student showcase, earning us tickets to Nordic Game Conference in Malmö in May 2024, where we got to display our game along many amazing professionally made games. I worked as a game programmer on this project, working mainly on movement, camera, and puzzle mechanics. \n Link to Steam: https://store.steampowered.com/app/2786840/The_Bridge_to_Yesterday/
+description: The Bridge to Yesterday started out as a course project for Making Games. In January 2024 the game was showcased at Copenhagen Gaming Week, and won the student showcase, earning us tickets to Nordic Game Conference in Malmö in May 2024, where we got to display our game along many amazing professionally made games. I worked as a game programmer on this project, working mainly on movement, camera, and puzzle mechanics. \n Link to Steam - https://store.steampowered.com/app/2786840/The_Bridge_to_Yesterday/
 ---
