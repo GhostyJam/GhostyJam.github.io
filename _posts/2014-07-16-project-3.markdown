@@ -3,7 +3,7 @@ layout: default
 title: bachelor project
 modal-id: 3
 date: 2025-06-19
-img: circus.png
+img: bach.png
 alt: image-alt
 project-date: Spring 2023
 client: Bachelor Project
